@@ -44,4 +44,5 @@ public class App {
             System.out.print("Product: " + list.get(index).getName() +
                     ", USD " + priceSearch + "\n");
     }
+
 }
